@@ -3,7 +3,7 @@
 This library allows an Arduino board to select sources for control.
 
 For more information about this library please visit us at
-http://github.com/Skkeem
+http://github.com/skkeem
 
 == License ==
 
